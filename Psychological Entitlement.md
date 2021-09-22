@@ -27,7 +27,7 @@ Campbell 等人在2004年编制了更有效的心理特权量表 (psychological 
 
 心理特权是一种不良心理状态(Campbell et al., 2004; Twenge & Campbell, 2009), 和一系列适应不良的个体特征相联系, 
 如自恋(Rothman & Steil, 2012)、
-贪婪、攻击性、难以宽恕他人(Campbell et al. 2004)、敌对 (Greenberger et al., 2008)、马基雅维利主义等(Jonason & Luévano, 2013)。
+贪婪、攻击性、难以宽恕他人(Campbell et al. 2004)、敌对 (Greenberger et al., 2008)、马基雅维利主义[ˆ1]等(Jonason & Luévano, 2013)。
 教育领域的心理特权被称为学业特权感(academic entitlement), 是指学生认为自己应该得到更好成绩的信念和对老师、学校的苛求态度(Barton & Hirsch, 2016)。消 费领域的心理特权被称为消费者特权感(consumer entitlement), 特指消费者在消费过程中期待特殊 待遇和觉得自己是特殊顾客的程度(Boyd III & Helms,2005)。工作领域的心理特权被称为职场特 权感(workplace entitlement)。
 Naumann等人(2002)将职场特权感定义为“个体基于雇佣关系而非自己的实际工作表现产生的薪酬期待”, 强调个体的期待是基于社会契约而不是员工的实际绩效。
 #### 心理特权概念理解中需要澄清的问题
@@ -93,3 +93,5 @@ Campbell 等人(2004)还编制了一种可视化的量表来测量心理特权�
 与坎贝尔等人相反，其他作者认为，心理权利实际上是一个多维的构造，其方面不一定与自恋有关（Piotrowski＆Żemojtel-Piotrowska，2009）。 这个概念是基于个人，他/她的同行和机构之间的关系。
 
 Active entitlement is the dimension that promotes self-interest and it is directly related to well-being.
+
+[1ˆ]马基雅维利主义，即个体利用他人达成个人目标的一种行为倾向。该术语包含两层涵义：第一层涵义是指任何适应性的社会行为，根据生物进化论自然选择总是偏爱成功操控他人行为的个体，这种不断进化以适应社会互动的能力是不考虑互动是合作性的还是剥削性的；第二层涵义就是特指非合作的剥削性行为，其涵义源自管理和领导力的“黑暗面”。
